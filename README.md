@@ -24,3 +24,4 @@ TODO: Write other installation guides
 ## Future improvements
 
 Optimize bitwise calculations
+Add .gitignore
